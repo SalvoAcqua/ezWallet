@@ -8,7 +8,7 @@ import { verifyAuth, validateEmail } from './utils.js';
   - Request Body Content: An object having attributes `username`, `email` and `password`.  check on the email parameter
   - Response `data` Content: A message confirming successful insertion
   - Optional behavior:
-    - error 400 is returned if there is already a user with the same username and/or email
+    - error 400 is returned if there is already a user with the same username and/or email!
  */
 export const register = async (req, res) => {
     try {
