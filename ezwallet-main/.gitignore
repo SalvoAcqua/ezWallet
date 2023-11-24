@@ -1,0 +1,9 @@
+.DS_Store
+code/node_modules/
+code/coverage/
+code/data/
+<<<<<<< HEAD
+code/.vscode
+=======
+code/.vscode
+>>>>>>> 4ffc72337cb723fb5059ede78deb12a6063b177d
